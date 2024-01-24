@@ -20,7 +20,7 @@ What I learned in this:
 ![lco](./screenshots/Web%20capture_23-2-2023_134745_127.0.0.1.jpeg)
 ![lco](./screenshots/Web%20capture_23-2-2023_134725_127.0.0.1.jpeg)
 
-## [Live Project Link](https://beautiful-muffin-ceb72d.netlify.app)
+## [Live Project Link](https://quote-generator-one-lake.vercel.app/)
 
 For any query you can reach out at jajuvh@gmail.com I am happy to help anytime.
 
